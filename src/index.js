@@ -1,7 +1,7 @@
 import Post from './Post'
 import json from './assets/json.json'
-
-import './styles/styles.css'
+import WebpackLogo from './assets/webpack-logo.png'
+import styles from './styles/styles.css'
 
 const post = new Post('Webpapck post title', WebpackLogo)
 
